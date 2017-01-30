@@ -3,20 +3,12 @@ var fs = require('fs');
 var mime = require('mime');
 var url = require('url');
 
-http.createServer(function(request, response) {
-    var urlquery = url.parse(request.url, true).pathname;
-    console.log(urlquery);
-    response.setHeader('content-Type', 'text/html;charset=utf-8');
-    if(urlquery == '/'){
-        fs.readFile('./index.html', function(err, data) {
-            if(err){
-                console.log(err)
-            }else{
-                response.end(data)
-            }
-        });
-    }else if(urlquery == '/clock'){
-        response.end(new Date().toString())
-    }
+http.createServer(function(req, res) {
+    console.log(req.method);
+    console.log(req.url);
+    console.log(req.headers);
+    res.statusCode = 404;
+    res.setHeader('Content-Type', 'text/html;charset=utf-8');
+    res.end('helloworld')
 
-}).listen('8080', 'localhost');
+}).listen('8080', '127.0.0.1');
