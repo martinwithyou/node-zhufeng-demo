@@ -1,0 +1,500 @@
+  155  git push -u origin master
+  156  git status
+  157  git status
+  158  git add .
+  159  git commit -m "bug fixed"
+  160  git fetch
+  161  git rebase -i origin/master
+  162  git push originmaster
+  163  git push origin master
+  164  git clone git@github.com:martinwithyou/vue2admin.git
+  165  git status
+  166  git diff
+  167  git add .
+  168  git commit -m "bug fixed"
+  169  git fetch
+  170  git fetch
+  171  git rebase -i origin/master
+  172  git status
+  173  git add .
+  174  git fetch
+  175  git rebase -i origin/master
+  176  git rebase --continue
+  177  git push origin dz1
+  178  git push origin dz1
+  179  git push origin master
+  180  git status
+  181  git add .
+  182  git commit -m "bug fixed"
+  183  git fetch
+  184  git rebase -i origin/master
+  185  git push origin master
+  186  git push origin dz1
+  187  git clone git@github.com:martinwithyou/vue2admin.git
+  188  git clone 
+  189  git clone git@github.com:martinwithyou/N-blog.git
+  190  git remote add origin git@github.com:martinwithyou/zhufeng.git
+  191  git push -u origin master
+  192  git clone git clone https://github.com/webproblem/vue-demo.git
+  193  git clone git clone https://github.com/webproblem/vue-demo.git
+  194  git clone git clone https://github.com/webproblem/vue-demo.git
+  195  git clone https://github.com/webproblem/vue-demo.git
+  196  cd vue-demo
+  197  npm install
+  198  cnpm install
+  199  git clone git@github.com:martinwithyou/node_demo.git
+  200  ssh-keygen -t rsa -C "martinwithyou"
+  201  cat/User/dezhu/.ssh/id_rsa.pub
+  202  git clone git@github.com:martinwithyou/20171208.git
+  203  git clone https://github.com/carolineLH/boss.git  
+  204  git clone git@github.com:martinwithyou/2017-12-8.git
+  205  git clone git@github.com:martinwithyou/vue-admin.git
+  206  git clone git@github.com:martinwithyou/vue-devtools.git
+  207  git init
+  208  git add origin git@github.com:martinwithyou/201602blog.git
+  209  git remote add origin git@github.com:martinwithyou/201602blog.git
+  210  git push -u orifin master
+  211  git push -u orifin master
+  212  git push -u orifin master
+  213  git status
+  214  git diff
+  215  git add .
+  216  git remote add origin git@github.com:martinwithyou/2017_12_10.git
+  217  git init
+  218  git remote add origin git@github.com:martinwithyou/2017_12_10.git
+  219  git push -u origin master
+  220  git push
+  221  git push origin master
+  222  git push origin master
+  223  git init
+  224  git add README.md
+  225  git commit -m "first commit"
+  226  git status
+  227  git add .
+  228  git commit -m "first commit"
+  229  $ git
+  230  $ git
+  231  git remote add origin git@github.com:martinwithyou/2017_12_10.git
+  232  git push 
+  233  git push --set-upstream origin master
+  234  git push -u origin master
+  235  git config --global user.name "yourname"
+  236  git config --global user.name"martinwithyou"
+  237  git config --global user.email"406410589@qq.com"
+  238  ~/.ssh
+  239  node -v
+  240  npm -v
+  241  git clone git@github.com:martinwithyou/SweetCake.git
+  242  git status
+  243  git init
+  244  git status
+  245  git add .
+  246  git status
+  247  git status
+  248  git add .
+  249  git status -m "bug fixed"
+  250  git push origin master
+  251  git clone git@github.com:martinwithyou/node_demo.git
+  252  git status
+  253  git config -l
+  254  git config --global user.name martinwithyou
+  255  git config --global user.email '406410589@qq.com'
+  256  git init
+  257  git push origin master
+  258  git pull
+  259  git --version
+  260  ls
+  261  ls -l
+  262  ls -a
+  263  -la
+  264  ls -la
+  265  clear
+  266  cd
+  267  cd ../
+  268  cd/
+  269  cd /
+  270  cd :d
+  271  cd :D
+  272  cd ../
+  273  cd /
+  274  git --version
+  275  ls -l
+  276  ls
+  277  ls
+  278  ls
+  279  ls
+  280  ls
+  281  cd config
+  282  ls
+  283  cd ls
+  284  ls -l
+  285  ls
+  286  ls -la
+  287  cd ../
+  288  ls
+  289  cd config
+  290  mkdir
+  291  mkdir dezhu
+  292  ls
+  293  cd dezhu
+  294  touch dezhu_node
+  295  mkdir dd
+  296  mkdir ww
+  297  ls
+  298  touch with_you
+  299  ls
+  300  mkdir wwwwwww
+  301  mkdir qqqqq
+  302  ls
+  303  touch www
+  304  touch aaa
+  305  touch 0000
+  306  ls
+  307  ls
+  308  touch .gitignore
+  309  ls
+  310  ls -l
+  311  vi dd
+  312  ls
+  313  vi dd
+  314  vi dd
+  315  echo hello,node > 1.txt
+  316  echo hello,heheheheh[C >>1.txt
+  317  cp 1.txt 2.txt
+  318  cat 2.txt
+  319  vi 1.txt
+  320  echo 2.txt>> my nameis 33333
+  321  cat 2.txt
+  322  echo my nameis 33333>>2/txt
+  323  echo my nameis 33333>>2.txt
+  324  echo my nameis >>2.txt
+  325  cat 2.txt
+  326  ls
+  327  ls -a
+  328  rm dd
+  329  rm -rf dd
+  330  ls
+  331  ls
+  332  cd 1.txt
+  333  cat 1.txt
+  334  cd 1.txt
+  335  ls
+  336  ls -ls
+  337  cd qqqqq
+  338  ls
+  339  cd ./
+  340  cd ../
+  341  ls
+  342  rm aa
+  343  rm aaa
+  344  ls
+  345  rm ww
+  346  rm -rf ww
+  347  ls 
+  348  ls
+  349  ls
+  350  ls
+  351  ls 
+  352  git add .
+  353  git init
+  354  git init
+  355  git status
+  356  git add .
+  357  git diff
+  358  git status
+  359  git commit -m "bug fixed"
+  360  git push origin master
+  361  git log
+  362  git log
+  363  git log
+  364  git config -l
+  365  clear
+  366  git config -l
+  367  git config --global user.name martinwithyou
+  368  git config --global user.email 406410589@qq.com
+  369  git cionfig ls
+  370  git cionfig -l
+  371  git config -l
+  372  git init
+  373  git init
+  374  git status\
+  375  git status
+  376  git init
+  377  ls
+  378  ls -a
+  379  git status
+  380  git add .
+  381  git status
+  382  touch sss
+  383  git status
+  384  git add .
+  385  git status
+  386  git status
+  387  git diff
+  388  git add .
+  389  git commit -m "delete it"
+  390  git status
+  391  git status
+  392  git commit
+  393  git commit -m "root commit"
+  394  git status
+  395  git init 
+  396  git status
+  397  git status
+  398  git add .
+  399  git status
+  400  git commit -m "here th change"
+  401  git status
+  402  echo  wwww>3.txt
+  403  cat 3.txt
+  404  git status
+  405  git add 3.txt
+  406  git commit -m "3.txt"
+  407  git status
+  408  git branch
+  409  git checkout -b dz4
+  410  git checkout master
+  411  echo 'zfpx'>4.txt
+  412  git status
+  413  git add .
+  414  git commit -m "bug fixed"
+  415  git status
+  416  git branch
+  417  git checkout -b "dz5"
+  418  git branch
+  419  git status
+  420  git log
+  421  git log
+  422  git relog
+  423  git log
+  424  git clone git@github.com:martinwithyou/vue2admin.git
+  425  git clone https://github.com/martinwithyou/vue2admin.git
+  426  ls
+  427  cd vue2admin-master
+  428  ls
+  429  cd vue2admin-master
+  430  ls
+  431  git status
+  432  git duff
+  433  git duff
+  434  git diff
+  435  git add .
+  436  git commit -m "bug fixed"
+  437  git fetch
+  438  git push origin master
+  439  git checkout -b dz1
+  440  git status
+  441  git add .
+  442  git status
+  443  git commit -m "bug fixed"
+  444  gir fetch
+  445  git fetch
+  446  git rebase -i origin/master
+  447  git fetch
+  448  git push origin master
+  449  git push origin dz1
+  450  git checkout master
+  451  git pull
+  452  git push origin master
+  453  git clone https://github.com/ikcamp/koa2-tutorial.git
+  454  ls
+  455  cd koa2-tutorial
+  456  ls
+  457  cd code
+  458  ls
+  459  git status
+  460  git add .
+  461  git commit -m "add some description"
+  462  git fetch
+  463  git rebase -i origin/master
+  464  git rebase --continue
+  465  git status
+  466  git add .
+  467  git fetch
+  468  git push origin dz1
+  469  git rebase --continue
+  470  git clone https://github.com/ikcamp/koa2-tutorial.git
+  471  ls
+  472  cd koa2-tutorial
+  473  ls
+  474  cd images
+  475  ls
+  476  ls -al
+  477  cd ../
+  478  ls -l
+  479  cd code
+  480  ls
+  481  git status
+  482  git checkout master
+  483  ls
+  484  git checkout  -b dz1
+  485  git status
+  486  git add .
+  487  git status
+  488  git status
+  489  git add .
+  490  git commit -m "delelte crieted code"
+  491  git fetch
+  492  git rebase -i origin/master
+  493  git push origin dz1
+  494  git push origin dz1
+  495  git  checkout master
+  496  git pull
+  497  git mmerge dz1 --ff-only
+  498  git merge dz1 --ff-only
+  499  git push origin master
+  500  git status
+  501  git clone https://github.com/martinwithyou/luxon.git
+  502  git clone https://github.com/martinwithyou/node-zhufeng-demo.git
+  503  git ls
+  504  ls
+  505  cd node-zhufeng-demo
+  506  ls
+  507  touch readme.md
+  508  vi readme.md
+  509  cat readme.md
+  510  clear
+  511  touch .gitignore
+  512  ls
+  513  ls -a
+  514  git status
+  515  git add .
+  516  git commit -m "bug fixed"
+  517  git status
+  518  git push origin master
+  519  ls
+  520  git status
+  521  git add .
+  522  git status
+  523  git commit -m "bug fixed"
+  524  git fetch
+  525  git reabse -i origin/master
+  526  git rebase -i origin/master
+  527  git push origin master
+  528  git log
+  529  git reflog
+  530  git status
+  531  git chekcout -b dz1
+  532  git chekout -b dz1
+  533  git checkout -b dz1
+  534  git status
+  535  echo  珠峰>1.txt
+  536  git status
+  537  git add  1.txt
+  538  git status
+  539  echo 培训>2.txt
+  540  git status
+  541  git add 2.txt
+  542  git status
+  543  cat 1.txt
+  544  car 2.txt
+  545  cat 2.txt
+  546  git log
+  547  git log
+  548  git status
+  549  git status
+  550  git rm --cached 
+  551  git rm --cached .
+  552  git rm --cached . -r
+  553  git status
+  554  git status
+  555  git add .
+  556  git commmit -m "bug fixed"
+  557  git commit -m "bug fixed"
+  558  git push origin dz1
+  559  git checkout master
+  560  git pull 
+  561  git merge dz1 --ff -nly
+  562  git merge dz1 --ff -only
+  563  git merge dz1 --ff-only
+  564  git push origin master
+  565  git checkout dz1
+  566  git status
+  567  git logs
+  568  git log
+  569  echo 11111>1.txt
+  570  echo "qqqq">1.txt
+  571  echo "qqqq">2.txt
+  572  git status
+  573  echo "zfpx">1.txt
+  574  git status
+  575  cat 1.txt
+  576  git checkout .
+  577  git sattus
+  578  git status
+  579  git status
+  580  cat 1.txt
+  581  git status
+  582  cat 1.txt
+  583  vi 1.txt
+  584  cat 1.txt
+  585  git status
+  586  git add .
+  587  git status
+  588  git checkout .
+  589  git status
+  590  cat 1.txt
+  591  git add .
+  592  git status
+  593  git checkout .
+  594  git status
+  595  git reset HEAD
+  596  git checkout .
+  597  cat 1.txt
+  598  git reset HEAD
+  599  git checkout .
+  600  cat 1.txt
+  601  git status
+  602  git status
+  603  echo 珠峰>1.txt
+  604  git add .
+  605  git status
+  606  echo 珠峰培训>1.txt
+  607  git status
+  608  git add .
+  609  git status
+  610  gir reset HEAD
+  611  git reset HEAD
+  612  git checkout .
+  613  cat 1.txt
+  614  git echo "珠峰培训">1.txt
+  615  echo "珠峰培训">1.txt
+  616  git  status
+  617  git add .
+  618  echo "培训">1.txt
+  619  git reset HEAD
+  620  git checkout .
+  621  cat 1.txt
+  622  git log
+  623  git log
+  624  git status
+  625  git diff
+  626  git diff
+  627  git log
+  628  git reset --hard 
+  629  git reset --hard 
+  630  git reset --hard d79e8aa956681301acf67ec56de49e51d03cf1ca
+  631  git status
+  632  git reset  f7f5334ee17d6cb2213732c221f3e92fc743626a
+  633  git sattus
+  634  git status
+  635  git add .
+  636  git commit -m "bug fixed"
+  637  git fetch
+  638  git rebase -i origin/master
+  639  git status
+  640  git add .
+  641  git status
+  642  git rebase --continue
+  643  git status
+  644  git log
+  645  git status
+  646  ls
+  647  git reflog
+  648  git status
+  649  ls
+  650  cat 1.txt
+  651  git status
+  652  git log
+  653  history 1.txt
+  654  history>history.txt
